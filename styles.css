@@ -1,0 +1,26 @@
+h1{
+  margin:15%;
+}
+body{
+  text-align: center;
+  margin-top: 0;
+  background-color: #ff4c68;
+  padding: 50px;
+}
+img{
+  width:15%;
+  border: 0;
+  border-radius:100%;
+  margin-bottom: 20%;
+}
+#mainpart{
+  text-align: center;
+  background-color: #ff4c68;
+  margin:0;
+  font-family: 'Great Vibes', cursive;
+  font-weight: bold;
+  color: #00bcd4;
+}
+.font{
+  font-family: 'Great Vibes', cursive; 
+}
